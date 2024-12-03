@@ -11,7 +11,7 @@ const NavBar = () => {
             </div>
         
 
-            <ul className="categorias">
+            <ul className="categories">
                 <li>Remeras</li>
                 <li>Shorts</li>
                 <li>Buzos</li>
