@@ -1,9 +1,9 @@
-import { RiShoppinhCart2Fill } from "react-icons/ri";
+import { TbShoppingCart } from "react-icons/tb";
 
 const CartWidget = () => {
     return (
         <div>
-            <RiShoppinhCart2Fill/>
+            <TbShoppingCart/>
             <p>1</p>
         </div>
     )
