@@ -12,10 +12,10 @@ const NavBar = () => {
         
 
             <ul className="categories">
-                <NavLink to= "/category/pelotas" className={({isActive}) => isActive ? "category-active" : "category"}>Remeras</NavLink>
-                <NavLink to= "/category/botines" className={({isActive}) => isActive ? "category-active" : "category"}>Shorts</NavLink>
-                <NavLink to = "/category/camisetas" className={({isActive}) => isActive ? "category-active" : "category"}>Buzos</NavLink>
-                <NavLink to = "/category/camisetas" className={({isActive}) => isActive ? "category-active" : "category"}>Camperones</NavLink>    
+                <NavLink to= "/category/camisetas" className={({isActive}) => isActive ? "category-active" : "category"}>Remeras</NavLink>
+                <NavLink to= "/category/shorts" className={({isActive}) => isActive ? "category-active" : "category"}>Shorts</NavLink>
+                <NavLink to = "/category/buzos" className={({isActive}) => isActive ? "category-active" : "category"}>Buzos</NavLink>
+                <NavLink to = "/category/camperones" className={({isActive}) => isActive ? "category-active" : "category"}>Camperones</NavLink>    
             </ul>
         
             <CartWidget/>

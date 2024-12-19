@@ -1,32 +1,42 @@
 const products = [
     {
         id: "asdss111",
-        name: "Pelota Cuerva",
-        description: "",
-        price: 40000,
-        stock: 8,
-        image: "/public/pelotauno1.jpg",
-        category: "pelotas"
-    },
-    
-    {
-        id: "hashah77",
         name: "Camiseta Titular",
         description: "",
         price: 90000,
-        stock: 3,
-        image: "/public/camisetauno1.webp",
+        stock: 8,
+        image: "/public/camisetatitular.png",
         category: "camisetas"
     },
     
     {
-        id: "asdss111",
-        name: "Botines Cuervos",
+        id: "hashah77",
+        name: "Buzo Boca",
         description: "",
-        price: 65000,
+        price: 110000,
+        stock: 3,
+        image: "/public/buzo.jpg",
+        category: "buzos"
+    },
+    
+    {
+        id: "asdss111",
+        name: "Short Boca",
+        description: "",
+        price: 30000,
         stock: 21,
-        image: "/public/botinesuno1.webp",
-        category: "botines"
+        image: "/public/short.png",
+        category: "shorts"
+    },
+
+    {
+        id: "asdss111",
+        name: "Camperon Boca",
+        description: "",
+        price: 180000,
+        stock: 3,
+        image: "/public/camperon.webp",
+        category: "camperones"
     },
     ]
     
