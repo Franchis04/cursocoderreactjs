@@ -7,7 +7,9 @@ const NavBar = () => {
         <nav className= "navbar">
            
             <div className= "brand">
-                <p>TiendaBOCA</p>
+                <a href="/">
+                    <p>TiendaBOCA</p>
+                </a>
             </div>
         
 

@@ -1,8 +1,8 @@
 const products = [
     {
-        id: "asdss111",
+        id: "Gmt1",
         name: "Camiseta Titular",
-        description: "",
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia officiis voluptatem eum quasi a repellendus omnis sunt libero exercitationem enim repellat esse minima, asperiores natus voluptate fugit velit labore quisquam?",
         price: 90000,
         stock: 8,
         image: "/public/camisetatitular.png",
@@ -10,9 +10,9 @@ const products = [
     },
     
     {
-        id: "hashah77",
+        id: "Gmt2",
         name: "Buzo Boca",
-        description: "",
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia officiis voluptatem eum quasi a repellendus omnis sunt libero exercitationem enim repellat esse minima, asperiores natus voluptate fugit velit labore quisquam?",
         price: 110000,
         stock: 3,
         image: "/public/buzo.jpg",
@@ -20,9 +20,9 @@ const products = [
     },
     
     {
-        id: "asdss111",
+        id: "Gmt3",
         name: "Short Boca",
-        description: "",
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia officiis voluptatem eum quasi a repellendus omnis sunt libero exercitationem enim repellat esse minima, asperiores natus voluptate fugit velit labore quisquam?",
         price: 30000,
         stock: 21,
         image: "/public/short.png",
@@ -30,9 +30,9 @@ const products = [
     },
 
     {
-        id: "asdss111",
+        id: "Gmt4",
         name: "Camperon Boca",
-        description: "",
+        description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia officiis voluptatem eum quasi a repellendus omnis sunt libero exercitationem enim repellat esse minima, asperiores natus voluptate fugit velit labore quisquam?",
         price: 180000,
         stock: 3,
         image: "/public/camperon.webp",
